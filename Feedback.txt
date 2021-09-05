@@ -1,0 +1,5 @@
+understand = input ("Did you understand ?")
+if understand == "yes" 
+	print (" Very good")
+else:
+	print (" Practise more ") 
