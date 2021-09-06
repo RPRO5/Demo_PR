@@ -1,5 +1,5 @@
 understand = input ("Did you understand ?")
-if understand == "yes" 
+if understand == "yes" or understand == "y"
 	print (" Very good")
 else:
 	print (" Practise more ") 
